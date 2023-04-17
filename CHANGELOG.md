@@ -1,5 +1,24 @@
 # Changelog
 
+## v0.4.5
+
+
+### 📖 Documentation
+
+  - Fix typo (dae0935)
+
+### 🏡 Chore
+
+  - **release:** V0.3.2 (706d741)
+  - **release:** V0.4.2 (642ee11)
+  - **release:** V0.4.3 (2cf48a0)
+  - **release:** V0.4.4 (4867820)
+
+### ❤️  Contributors
+
+- Paul Cross <me@paulcross.cz>
+- Nicolas Hedger
+
 ## v0.4.4
 
 - add ability to change token cookie name (default: `nuxt-sanctum-auth-token`)
